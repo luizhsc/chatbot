@@ -1,0 +1,43 @@
+{
+  "id": "afa9716e-85f3-4ae7-8c53-d5a02c6cef87",
+  "name": "cervejas",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "df8fd583-02fa-45ae-8cbf-8f7d1e5f7c5e",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "pt-br",
+          "title": "Qual a Cerveja?",
+          "replies": [
+            "A",
+            "B",
+            "C"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513792741,
+  "fallbackIntent": false,
+  "events": []
+}

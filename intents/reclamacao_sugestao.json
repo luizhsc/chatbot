@@ -1,0 +1,43 @@
+{
+  "id": "423716ef-f1af-4faa-9cc3-702df03c251a",
+  "name": "reclamacao_sugestao",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": true,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a1fac224-4e08-492d-a756-1127d9a70329",
+          "dataType": "@sugestao_reclamacao",
+          "name": "var",
+          "value": "$var",
+          "prompts": [],
+          "defaultValue": "conte-nos o motivo..",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": "conte-nos o motivo"
+        },
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": "$var registrado"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513789042,
+  "fallbackIntent": false,
+  "events": []
+}

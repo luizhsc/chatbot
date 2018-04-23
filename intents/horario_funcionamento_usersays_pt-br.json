@@ -1,0 +1,76 @@
+[
+  {
+    "id": "c619c4e9-9329-46a2-a4ca-beca9ce56799",
+    "data": [
+      {
+        "text": "q hr que abre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513788934
+  },
+  {
+    "id": "3214924a-d831-417a-95c3-e0b9c956f1f4",
+    "data": [
+      {
+        "text": "que horas que abre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513788934
+  },
+  {
+    "id": "cb7d5528-58ee-4fa9-8c69-77e21b7d4e92",
+    "data": [
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513788934
+  },
+  {
+    "id": "8c558e38-027a-4814-9ab5-cf385644161c",
+    "data": [
+      {
+        "text": "horario de funcionamento",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513788934
+  },
+  {
+    "id": "503cb953-65c1-48c4-ac4b-81e946d48dba",
+    "data": [
+      {
+        "text": "q hora q fecha?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513788934
+  },
+  {
+    "id": "90bd1425-122d-4639-82b5-86cc5b9c6ed6",
+    "data": [
+      {
+        "text": "que hora que fecha?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513788934
+  }
+]

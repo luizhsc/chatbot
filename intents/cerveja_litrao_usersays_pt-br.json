@@ -1,0 +1,61 @@
+[
+  {
+    "id": "3129e663-9ba2-406e-8445-d95c84a03af3",
+    "data": [
+      {
+        "text": "1L",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e253ef9d-8184-413d-a483-72b9a3a3ed12",
+    "data": [
+      {
+        "text": "litro",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ff8d9ca5-f9c2-40a0-b623-5674ec296156",
+    "data": [
+      {
+        "text": "litrao",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8705ef13-1eae-44b1-84af-68270561e42e",
+    "data": [
+      {
+        "text": "cerveja litrao",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513793244
+  },
+  {
+    "id": "70665d3a-d3f0-4c55-8fc7-f0c4644abfc2",
+    "data": [
+      {
+        "text": "12",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513793244
+  }
+]

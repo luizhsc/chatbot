@@ -1,0 +1,52 @@
+[
+  {
+    "id": "10ee513f-bf8c-41df-9511-d9052d86e5fc",
+    "data": [
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513789042
+  },
+  {
+    "id": "bc65153f-0520-4e29-a42d-1e72cb694e81",
+    "data": [
+      {
+        "text": "sugestao",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513789042
+  },
+  {
+    "id": "a2741067-a449-4f81-b665-710530ac08be",
+    "data": [
+      {
+        "text": "elogio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513789042
+  },
+  {
+    "id": "e4aaca6a-c1a3-4dd1-831a-620ecf84e474",
+    "data": [
+      {
+        "text": "reclamar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513789042
+  }
+]

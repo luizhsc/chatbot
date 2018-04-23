@@ -1,0 +1,46 @@
+{
+  "id": "609cb0de-0982-4227-ae5a-a88d3efdee62",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "pt-br",
+          "title": "Oi, tudo bem?",
+          "replies": [
+            "Cerveja",
+            "Vinho",
+            "Refrigerante"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": [
+            "Olá!",
+            "Oi!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ]
+}

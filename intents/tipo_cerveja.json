@@ -1,0 +1,43 @@
+{
+  "id": "5f01c62d-49af-45f4-8dd6-9aa52310840d",
+  "name": "tipo_cerveja",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0828c8b4-3219-446b-be81-0d1a698f9481",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "menu",
+          "value": "menu",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "pt-br",
+          "title": "Qual cerveja?",
+          "replies": [
+            "Lata",
+            "600 ml",
+            "Litrão"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513792947,
+  "fallbackIntent": false,
+  "events": []
+}

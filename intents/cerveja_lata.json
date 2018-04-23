@@ -1,0 +1,34 @@
+{
+  "id": "947dcb2d-f77b-4fd7-bd14-3284b8da4217",
+  "name": "cerveja_lata",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "pt-br",
+          "title": "R$ 4,00",
+          "replies": [
+            "Cerveja",
+            "Vinho",
+            "Refrigerante"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513793079,
+  "fallbackIntent": false,
+  "events": []
+}

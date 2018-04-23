@@ -1,0 +1,57 @@
+{
+  "id": "619ab822-8953-45b8-8a8d-ec3de2be825d",
+  "name": "horario_funcionamento",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "210dae61-bdba-47de-a55b-f63f22ed2397",
+          "required": true,
+          "dataType": "@sys.date",
+          "name": "dia",
+          "value": "$dia",
+          "prompts": [
+            {
+              "lang": "pt-br",
+              "value": "Qual dia vc deseja?"
+            }
+          ]
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": "Horário de Funcionamento $dia:"
+        },
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": "De Terça a Sexta - das 19h as 6h"
+        },
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": "Sabado - das 16h as 6h"
+        },
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": "Domingo ou Feriado -  das 13h as 20h"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513788934,
+  "fallbackIntent": false,
+  "events": []
+}

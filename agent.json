@@ -1,0 +1,33 @@
+{
+  "description": "",
+  "language": "pt-br",
+  "disableInteractionLogs": false,
+  "googleAssistant": {
+    "googleAssistantCompatible": false,
+    "project": "echatdrinkbot",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [],
+    "systemIntents": [],
+    "endIntentIds": [],
+    "oAuthLinking": {
+      "required": false,
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "protocolVersion": "V2"
+  },
+  "defaultTimezone": "America/Buenos_Aires",
+  "webhook": {
+    "url": "https://us-central1-echatdrinkbot.cloudfunctions.net/dialogflowFirebaseFulfillment",
+    "available": false,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": true
+  },
+  "isPrivate": true,
+  "customClassifierMode": "use.after",
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "onePlatformApiVersion": "v1legacy"
+}

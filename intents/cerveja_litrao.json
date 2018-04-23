@@ -1,0 +1,43 @@
+{
+  "id": "064aec31-d054-419c-9a1d-edb1628b6425",
+  "name": "cerveja_litrao",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "600ad5d2-3796-4e9e-b52a-75b70f3f300d",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "pt-br",
+          "title": "Cerveja Litrao sai por R$ 8,00",
+          "replies": [
+            "Cerveja",
+            "Vinho",
+            "Regrigerante"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513793244,
+  "fallbackIntent": false,
+  "events": []
+}

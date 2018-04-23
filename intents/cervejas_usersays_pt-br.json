@@ -1,0 +1,40 @@
+[
+  {
+    "id": "e3e105e5-1ad8-4af8-8d42-91d100eb05d2",
+    "data": [
+      {
+        "text": "cervejas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513792741
+  },
+  {
+    "id": "b032c009-9c07-4f2d-bc82-d44d917b1554",
+    "data": [
+      {
+        "text": "cerveja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513792741
+  },
+  {
+    "id": "d52ddaf3-181c-4269-acb9-c9151bee90f6",
+    "data": [
+      {
+        "text": "4",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513792741
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "id": "03242051-21d6-4f08-8bc2-cc8fc3cb2477",
+  "name": "saudacao",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "pt-br",
+          "title": "Olá! Em que posso ajudar?",
+          "replies": [
+            "Horário que abrimos",
+            "Bebidas",
+            "Sugestão/Reclamação"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513777728,
+  "fallbackIntent": false,
+  "events": []
+}

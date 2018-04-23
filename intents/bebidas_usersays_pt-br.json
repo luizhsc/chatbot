@@ -1,0 +1,15 @@
+[
+  {
+    "id": "ee92814f-d793-44ca-be04-ae4d31202428",
+    "data": [
+      {
+        "text": "bebidas",
+        "alias": "bebida",
+        "meta": "@bebida",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

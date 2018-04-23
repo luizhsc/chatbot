@@ -1,0 +1,43 @@
+{
+  "id": "6161f67b-9630-4fbb-9e78-81b3d4754b19",
+  "name": "Default Fallback Intent",
+  "auto": false,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "pt-br",
+          "title": "Não consegui compreender, desculpe.",
+          "replies": [
+            "Cerveja",
+            "Vinho",
+            "Refrigerante"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": [
+            "Lamento, mas não compreendi.",
+            "Desculpe, mas não compreendi.",
+            "Infelizmente, não captei o que deseja."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": []
+}

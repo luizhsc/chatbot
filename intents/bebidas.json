@@ -1,0 +1,45 @@
+{
+  "id": "15553d35-9249-487c-9ef8-e1b95a715bdc",
+  "name": "bebidas",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "babbd20d-8682-4889-8fe3-4f3c58a16afa",
+          "required": false,
+          "dataType": "@bebida",
+          "name": "bebida",
+          "value": "$bebida",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "pt-br",
+          "title": "Qual bebida vc deseja?",
+          "replies": [
+            "Cerveja",
+            "Vinho",
+            "Refrigerante"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513792574,
+  "fallbackIntent": false,
+  "events": []
+}
